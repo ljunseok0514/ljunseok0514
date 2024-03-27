@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트엔드 개발자 이준석입니다.
 
 <!--
 **ljunseok0514/ljunseok0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
